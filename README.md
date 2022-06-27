@@ -1,3 +1,1 @@
 - 👋 Olá, eu sou @sjsdouglas
-- 👀 Estou interessado em Arch e I3
-- 💞️ Estou procurando colaborar em... qualquer coisa!
